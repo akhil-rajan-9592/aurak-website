@@ -29,7 +29,7 @@ const Header = () => {
                                 <Dropdown menu={{items}} trigger={['click']}>
                                     <div className='flex items-center gap-2'>
                                         <GlobalOutlined className='text-3xl text-black'/>
-                                        <DownOutlined className='text-lg text-green-400 font-bold'/>
+                                        <DownOutlined className='text-lg text-primary font-bold'/>
                                     </div>
                                 </Dropdown>
 

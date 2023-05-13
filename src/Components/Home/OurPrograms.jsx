@@ -23,11 +23,11 @@ const OurPrograms = () => {
                         </div>
                         <p>Masters</p>
                     </div>
-                    <div className="flex items-center gap-10 absolute bottom-20 right-0 bg-box-gray rounded-l-[40px] px-10 py-5">
+                    <div className="flex items-center gap-10 absolute bottom-20 right-0 bg-[#e1e1e4] rounded-l-[40px] px-10 py-5">
                         <div className="flex items-center justify-center rounded-full p-3 ">
-                            <SearchOutlined className='text-primary font-bold'/>
-                        </div>
-                        <p>Search Program Here</p>
+                            <SearchOutlined className='text-primary font-bold '/>
+                        </div>          
+                        <p className='text-black'>Search Program Here</p>
                     </div>
                 </div>
             </div>
